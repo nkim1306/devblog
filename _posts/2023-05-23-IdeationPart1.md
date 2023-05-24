@@ -29,7 +29,7 @@ Solution: Explore high school students’ competitive edge and help them leverag
 
 ### Field Interview Questions
 
-For the interviews, I can be much more general to the audience rather than being too specific. There is not select target audience yet, so instead I am going to talk to many students to get an understanding of basic interests, hobbies, etc. During these interviews, it would be optimal to ask open ended questions to dive deeper into the conversatino and learn the most from every student.
+For the interviews, I can be much more general to the audience rather than being too specific. There is not select target audience yet, so instead I am going to talk to many students to get an understanding of basic interests, hobbies, etc. During these interviews, it would be optimal to ask open ended questions to dive further deeper into the conversatino and learn the most from every student.
 
 ## Interview Results
 
