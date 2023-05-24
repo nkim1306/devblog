@@ -29,10 +29,8 @@ Solution: Explore high school students’ competitive edge and help them leverag
 
 ### Field Interview Questions
 
--Student: Ask students who are active in social media whether they would participate in this platform or not. (notes on interviews)
--Stores / Companies: Ask them if they were interested in using this platform.
--What do you do daily?
--Be neutral, 10 candidates, keep interview notes
--Ask general questions about hobby + activities
+For the interviews, I can be much more general to the audience rather than being too specific. There is not select target audience yet, so instead I am going to talk to many students to get an understanding of basic interests, hobbies, etc. During these interviews, it would be optimal to ask open ended questions to dive deeper into the conversatino and learn the most from every student.
+
+## Interview Results
 
 >More Ideas Later...
