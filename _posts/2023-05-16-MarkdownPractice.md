@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ideation Session: Possible Candidates"
+title:  "Ideation Session: Getting to Know Markdown"
 date:   2023-05-23 20:37:26 -0600
 categories: planning
 ---
