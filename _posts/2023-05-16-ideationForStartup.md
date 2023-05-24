@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ideation Session: Possible Candidates"
-date:   2023-05-24 20:37:26 -0600
+date:   2023-05-23 20:37:26 -0600
 categories: planning
 ---
 
