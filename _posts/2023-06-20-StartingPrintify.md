@@ -7,7 +7,7 @@ categories: Description of Process
 
 ## The Printify Process
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1686966352/Screen_Shot_2023-06-16_at_7.45.30_PM_ttvxgc.png)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1688003616/Printify_njbgy1.png)
 
 To match the Etsy Shop, I had to also create a Printify Store that would initiate the print-on-demand process where we could automate the selling. There are many steps required to do this, including:
 
@@ -23,7 +23,7 @@ To match the Etsy Shop, I had to also create a Printify Store that would initiat
 
 ## Research and Plan
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1686966725/Screen_Shot_2023-06-16_at_7.51.46_PM_w8ln9z.png)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1688003700/How-to-create-a-UX-research-plan_Blog-hero_800x500_x2_FA_qr5a06.jpg)
 
 Working off the idea of making a unique business, it is important to understand what kind of things to implement in the process. First, you need to identify your target market. Determining the specific niche or market segment you want to target with your Etsy shop and considering factors like demographics, interests, and preferences of your potential customers is a must.
 
@@ -35,7 +35,7 @@ Once this research is completed, you can look towards Printify to follow through
 
 ## Selecting the Products
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1686966838/Screen_Shot_2023-06-16_at_7.53.47_PM_egspgn.png)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1688003745/clothing-istock-vectorikart-2021-0730_o8reke.jpg)
 
 Printify offers many different T-shirts, hoodies, hats, and much more with lots of flexibility. These products come in various sizes, colors, and styles, allowing users to create unique designs for personal use or for their brand.
 
@@ -45,7 +45,7 @@ What is great about Printify specifically is that it is very well tailored to su
 
 ## Setting the Prices
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1686967041/how-to-produce_nfa7h1.png)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1688003773/13withinterest1-illo-articleLarge_y1z9lk.jpg)
 
 Now that the products have been setup, Printify is incredibly beneficial in that it gives a full list of the manufacturing costs, shipping costs, and the profit margin based on the price you set. The neatness of the prices gives managers a good idea on where to price their items and what to consider when supplying their items for their Etsy Shop.
 
@@ -58,4 +58,3 @@ These prices, however, many not always work. Consider experimenting with differe
 ## Conclusion
 
 With that, the Printify store is setup with the direct connection to the Etsy shop. Now, all I have to do is create a product in the Printify store using Midjourney, Photoshop, and more and then it will automatically appear on the Etsy shop. I will talk about this process in a later blog post and also include some initial issues beginning Etsy shop owners can experience.
-
