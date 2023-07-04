@@ -31,7 +31,7 @@ Additionally, exploring current trends is very important. Spend time browsing th
 
 This can also be done by analyzing the best-selling items. The top-selling items within your niche on Etsy will give you an idea of popular trends and what customers are currently looking for. Look for opportunities to put your unique spin on these in-demand products.
 
-Once this research is completed, you can look towards Printify to follow through on your plans. 
+Once this research is completed, you can look towards Printify to follow through on your plans.
 
 ## Selecting the Products
 
