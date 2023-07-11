@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Understanding the Norm" 
+title:  "Ideation series: 2. Understanding the Norm" 
 date:   2023-05-30 20:37:26 -0600
 categories: planning
 ---
@@ -38,7 +38,7 @@ To create the most effective and beneficial understanding of what people want an
 ### Q4: What are some of your everyday problems?
 
 - Body pain as you get older
-  -Many aging adults experiecne back, leg, or joint pain
+  - Many aging adults experiecne back, leg, or joint pain
 - Getting sick
   - Allergies, cold, flu, and more
 - Contacts issues
