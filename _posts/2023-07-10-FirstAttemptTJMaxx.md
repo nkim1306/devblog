@@ -23,7 +23,7 @@ In addition, it incorporates the benefit of in-person shopping as the buyer can 
 
 ## What's the Plan?
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689042116/pdca-model-header_hrkyxp.png)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1688006424/business-4241792_1280_iw3rdx.jpg)
 
 To execute my plan to make this a reality, I will have to accomplish many necessary steps. Many of these include:
 
