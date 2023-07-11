@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Beginning Ideation Planning" 
+title:  "Ideation series: 1. Beginning Ideation Planning" 
 date:   2023-05-23 20:37:26 -0600
 categories: planning
 ---
@@ -17,10 +17,15 @@ Youth Wanted
 
 Students want to participate in side-hustle but they lack professional qualification to apply for jobs or internship.
 
+or
+
+High school students (my peers) want to participate in side-hustle opportunities but don't know much about available options.
+
 ### Solution
 
 Solution: Explore high school students’ competitive edge and help them leverage that advantage over adults
- -active participation in Social Media, i.e. Short form videos (tik tok, instagram, youtube)
+
+- active participation in Social Media, i.e. Short form videos (tik tok, instagram, youtube)
 
 *Option 1:*
 

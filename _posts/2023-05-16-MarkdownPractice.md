@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ideation Session: Getting to Know Markdown"
+title:  "Markdown Cheatsheet"
 date:   2023-05-23 20:37:26 -0600
 categories: planning
 ---
