@@ -2,7 +2,7 @@
 layout: post
 title:  "Ideation series: 3. A Deeper Dive into People's Minds: A Systematic Approach" 
 date:   2023-06-05 20:37:26 -0600
-categories: Analyzing
+categories: planning
 ---
 
 <p align="center">
@@ -62,4 +62,8 @@ After getting back the results of the survery, I learned that most of the respon
 
 As for what people do in their freetime, almost everyone said sports and social media as their main response. This was mainly expected and when asked about what forms of social media, the most popular were tiktok and instagram. Most people said that they feel decently experienced in making posts on tiktok, instagram, etc., and many also have over 1000 combined followers on these platforms.
 
-Based off this information, it is safest to say that most people do have jobs but are also looking to obtain extra funds on the side to boost their pocket money. Additionally, many people are actualy invested in social media and sports, which we could use to our advantage.
+Based off this information, it is safest to say that most people do have jobs but are also looking to obtain extra funds on the side to boost their pocket money. Additionally, many people are actually invested in social media and sports, which we could use to our advantage.
+
+### What I want to do
+
+I want to go ahead and explore different side-hustle opportunities. I want to see for myself if those opportunites do actually bring additional revenue stream for me. Then, I will curate those list and make it presentable to my peers.

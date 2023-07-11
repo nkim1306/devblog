@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Behind the Scenes: Navigating the Challenges of an Etsy Shop Suspension"
+title:  "Side Hustle Options 1. Etsy Shop: Part 4 Navigating the Challenges of an Etsy Shop Suspension"
 date:   2023-06-28 11:37:26 -0600
 categories: Description of Event
 ---

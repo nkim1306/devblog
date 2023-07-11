@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Unlocking Etsy's Goldmine: Step-by-Step Guide to Launching a Thriving Online Shop" 
+title:  "Side Hustle Options 1. Etsy Shop: Part 2 Step-by-Step Guide to Launching an Etsy Shop" 
 date:   2023-06-20 18:37:26 -0600
-categories: Description of Process
+categories: execution
 ---
 
 ## The Birth of the Etsy Shop
