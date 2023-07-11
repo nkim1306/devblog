@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Printify Magic: Transforming Your Designs into Profitable Products"
+title:  "Side Hustle Options 1. Etsy Shop: Part 3 Transforming Your Designs into Profitable Products"
 date:   2023-06-20 18:37:26 -0600
 categories: Description of Process
 ---

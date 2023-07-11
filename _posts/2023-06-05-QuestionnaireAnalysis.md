@@ -2,7 +2,7 @@
 layout: post
 title:  "Ideation series: 3. A Deeper Dive into People's Minds: A Systematic Approach" 
 date:   2023-06-05 20:37:26 -0600
-categories: Analyzing
+categories: planning
 ---
 
 <p align="center">
