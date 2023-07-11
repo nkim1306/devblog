@@ -1,58 +1,37 @@
 ---
 layout: post
-title:  "Behind the Scenes: Navigating the Challenges of an Etsy Shop Suspension"
-date:   2023-06-28 11:37:26 -0600
+title:  "Unveiling Hidden Gems: Unleashing Profit Potential at TJ Maxx"
+date:   2023-07-03 11:37:26 -0600
 categories: Description of Event
 ---
 
-## The Issue at Hand
+## Context of the Situation
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1688006308/etsy_khevtr.png)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689040618/329778928_756116205996118_5022751899699906966_n_edited-1024x575-1_odaoeo.jpg)
 
-Sadly enough, the first Etsy shop I setup weeks prior has been suspeneded. This is however, an issues many beginning Etsy shops will face for many unknown reasons. Even for my shop, I am not sure of the exact reason why my shop violated Etsy's terms of service. In this post, we will go over why some shops can get banned, what to do to avoid such issues, and the next steps in our Etsy Journey.
+After a casual conversation with a friend from South Korea, a hugely innovative idea came to mind. He complained that many of the amazing stores such as TJ Maxx, Marshalls, and many other stores are not offered in-person or sometimes not even digitally. As such, when he moved from the U.S. to South Korea, he was cut off from a valuable source of discounted clothes, accessories, and other essential goods. This lead to a new idea: what if we made it possible for those in South Korea to still access these stores in the States?
 
-## What Went Wrong?
+## The New Idea
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1688006383/360_F_356191845_Uf1HSScTIHcxXeK1UXuEn0rdAzMvTfxo_k9azyj.jpg)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689040740/629ec7e77bc6a80018b69fa6_kkixmv.jpg)
 
-Like I said before, this is an issue that most starting shops will experience. While the error made by each shop can be very minimal, one wrong step can lead to suspension. Many of the most common issues are listed in this [article.](https://www.reddit.com/r/Etsy/comments/uwrqck/account_suspension_help_checklist/?onetap_auto=true)
+Based on this very common need, the idea of a digital marketplace emerged. By using TikTok Live, our goal is to allow the customers from any country to join the TikTok as a cohost. Once the customer is in the live-stream, the shopper (the original host) would walk around the store and show the customer possible clothes to buy. Then, the customer can choose whatever clothes they see fit to their eye.
 
-For instance, many problems may include:
+This is great solution for international buyers looking for a new style or type of clothing as well as those who simply don't want to leave their homes. The easy accessibility for customers to simply watch the screen and say yes or no to certain items is the definition of efficiency.
 
-- ID Verification
-- Utility Bill Issue
-- Age
-- Legal Information
-- Copyright Policies
-- Counterfeiting
+In addition, it incorporates the benefit of in-person shopping as the buyer can talk about the material the shirt is made of, talk about size of the clothing, and even just give their opinion on the item iteself. Rather than being exposed to every item as you would on an online store, the buyer can exclude some of the less popular clothing that people wouldn't want to see.
 
-It is important to consider the cirumstance of your shop and contact an Etsy employee if you have any quesions. Everyone should have an email stating your shop's status and sometimes a reason as to why you were suspended/banned. Howver, sometimes Etsy will not even give an explanation. If this were to happen, then it is especially vital to talk to an Etsy helper.
-
-In my case, I had to ask the Etsy Help Center what our main issue was to be suspended. However, there was no reply and I am still currently suspended. This is frustrating because going through the issues many other peopel have faced when being suspended, my shop seemed to follow all of these guidelines. Nevertheless, it will just take time to truly see what will happen.
-
-## Whats Next?
+## What's the Plan?
 
 ![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1688006424/business-4241792_1280_iw3rdx.jpg)
 
-Because I am still suspended, I believe the next best step will be to find an alternative marketplace. Though Etsy has many benefit such as a high prestige and great marketing potential, it clearly won't be sustainable if I am constantly suspended. As such, going through many sources, the best alternatives we have found are:
+To execute my plan to make this a reality, I will have to accomplish many necessary steps. Many of these include:
 
-- TeePublic
-- RedBubble
-- TeeSpring
-- Walmart Marketplace
-- Ebay
-- Direct selling
+- Establishing a reliable connection while on TikTok live or another streaming platform.
+- Matching the buyer's schedule to find the right time to buy clothes.
+- Understanding what kinds of clothes that are hot on the market and what people would want to wear.
+- How to ship the bought clothes to the customers.
+- How to make profit off of the overall process.
+- What to price the products to include shipping and a royalty.
 
-TeePublic, RedBubble, and TeeSpring are just a few of the many art based websites that allow creators to add their artwork to the website and then create clothing such as T-shirts, hoodies, and much more. The prices to manufacture are very cheap and the versatility in design and products make it just as good as an option compared to Etsy.
-
-Walmart Marketplace and Ebay are more old-fashioned and well-known selling techniques. The big benefits of these marketplaces are the amount of consumers already flowing through the websites. Because of the high traffic already present, it would make selling my own clothing much easier. However, the process to ensure saftey and adherance to regulations may be a touch harder as the companies are much stricter in regulation.
-
-**But what if you want to go off road?**
-
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1688006543/going-in-a-new-direction_sqrg6e.jpg)
-
-There are many options avaible for people looking to work away from big name corporations and instead thrive on their own. If this sounds like you, you are most certainly not alone.
-
-One very prominent idea that I am pursuing as of now is using direct consumer selling of art created by Midjourney AI to the population of South Korea. Why this could work is because most of the populaiton is unaware of the capabilities Midjounrey AI has because it is an American based company that has not reached its signifigance in Korea.
-
-As such, if I can create the art for those in South Korea using Midjourney AI, I can make a huge profit of the digital products that take me almost no effort in making. As a passive income stream, this idea could be revolutionary as the current environment in Korea is not familiar with Midjourney.
+Overall, this idea is very interesting and I believe it will have lots of potential. The prices of many of these clothes in South Korea are much more expensive. Thus, even though I raise the price of selling these clothes from U.S. retailers, it will most likley still be cheaper than stock prices of South Korean retailers. This process has a bright outcome in sight.
