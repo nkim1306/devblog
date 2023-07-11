@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unveiling Hidden Gems: Unleashing Profit Potential at TJ Maxx"
+title:  "Side Hustle Option 4. TJMaxx: Part 1 Unveiling Hidden Gems: Unleashing Profit Potential at TJ Maxx"
 date:   2023-07-03 11:37:26 -0600
 categories: Description of Event
 ---
