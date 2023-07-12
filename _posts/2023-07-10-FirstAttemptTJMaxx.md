@@ -7,9 +7,9 @@ categories: Description of First Attempt
 
 ## How did it Go?
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689040618/329778928_756116205996118_5022751899699906966_n_edited-1024x575-1_odaoeo.jpg)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689043298/Screenshot_2023-07-11_at_11.33.54_AM_luqpqw.png)
 
-Overall, the experience was largely a success. With the large amounts of clothes in stock at a very cheap price, I was able to find many clothes for my friend, my first investor, as well as his friends in Korea. Buying 16 total items for $245, we saved hundreds of dollars on clothes that day alone. The brands we bought include:
+Overall, the experience was a success. With the large amounts of clothes in stock at a very cheap price, I was able to find many clothes for my friend, my first investor, as well as his friends in Korea. Buying 16 total items for $245, we saved hundreds of dollars on clothes that day alone. The brands we bought include:
 
 - New Balance
 - Nike
@@ -20,6 +20,8 @@ Overall, the experience was largely a success. With the large amounts of clothes
 - O'Neal
 
 All clothes were new, and all cheaper than `$20`. Some even being less than `$12`. This value is incredibly powerful in our side-hustle mission and shows great signs.
+
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689125641/Screen_Shot_2023-07-11_at_7.32.55_PM_oqjuf8.png)
 
 ## The Details
 
