@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Side Hustle Option 4. TJMaxx: Part 2 From Treasure Hunting to Profit: My First Venture into Reselling TJMaxx Finds"
+title:  "Side Hustle Option 2. TJMaxx: Part 2 From Treasure Hunting to Profit: My First Venture into Reselling TJMaxx Finds"
 date:   2023-07-10 11:37:26 -0600
 categories: Description of First Attempt
 ---
@@ -25,7 +25,7 @@ All clothes were new, and all cheaper than `$20`. Some even being less than `$12
 
 ## The Details
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689040740/629ec7e77bc6a80018b69fa6_kkixmv.jpg)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689125841/logo_d5c0nx.png)
 
 After buying the clothes, the next step is to send them to the customer. I researched many opportunities, and the shipping cost could be a major issue. USPS and FedEx are ridiculously expensive when it comes to this oversea shipping. The costs can be around `$300+`, and this would ruin our business. As such, I looked further and found that Korean based shipping companies are much cheaper.
 
@@ -33,7 +33,7 @@ The best option I found was called KT Express which was not only under $50, but 
 
 ## What to Consider
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1688006424/business-4241792_1280_iw3rdx.jpg)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689126073/Card-Illustration-Pricing-Calculator_dopzd7.png)
 
 Now that I tried the whole process, I will need to figure out what to charge the customers. This would include buying the actual clothes, shipping it to Korea or other international locations, and an added royalty so I can still make profit.
 
