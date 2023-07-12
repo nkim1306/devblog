@@ -25,7 +25,7 @@ All clothes were new, and all cheaper than `$20`. Some even being less than `$12
 
 ## The Details
 
-![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689126382/KT_Express_mntxde.jpg)
+![Image](https://res.cloudinary.com/dsdmfz9bs/image/upload/v1689126587/kt-about_c9t8f3.jpg)
 
 After buying the clothes, the next step is to send them to the customer. I researched many opportunities, and the shipping cost could be a major issue. USPS and FedEx are ridiculously expensive when it comes to this oversea shipping. The costs can be around `$300+`, and this would ruin our business. As such, I looked further and found that Korean based shipping companies are much cheaper.
 
