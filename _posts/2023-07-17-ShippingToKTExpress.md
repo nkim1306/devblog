@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Side Hustle Option 2. TJMaxx: Part 3 The First Attempt at Shipping with KT Express"
-date:   2023-07-10 11:37:26 -0600
+date:   2023-07-17 11:37:26 -0600
 categories: Description of First Attempt
 ---
 
